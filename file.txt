@@ -1,2 +1,4 @@
 Hello, this is a basic text file created using nano for git testing.
 What I am gona do nothing greaat..
+So I am adding this line after git commit lets us see what happens.
+I am not feeling productive today.
