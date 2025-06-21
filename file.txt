@@ -1,0 +1,2 @@
+Hello, this is a basic text file created using nano for git testing.
+What I am gona do nothing greaat..
